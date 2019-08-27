@@ -1,0 +1,6 @@
+Django==2.2.4
+djangorestframework==3.10.2
+django-filter
+gunicorn
+markdown
+psycopg2>=2.7,<3.0
